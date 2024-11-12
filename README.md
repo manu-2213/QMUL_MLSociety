@@ -9,3 +9,9 @@ Lectures:
 - Lecture 2: Simple Liner Regression
 - Lecture 3: Multiple Linear Regression
 - Lecture 4: Neural Networks - Forwards Pass and ReLU
+
+
+
+
+Extra Learning Resources:
+- Mathematics for ML: https://mml-book.github.io/
