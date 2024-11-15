@@ -15,3 +15,9 @@ Lectures:
 
 Extra Learning Resources:
 - Mathematics for ML: https://mml-book.github.io/
+- Neural Networks (Videos from easier to harder difficulty)
+    - https://www.youtube.com/watch?v=cAkMcPfY_Ns
+    - https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+    - https://www.youtube.com/watch?v=IHZwWFHWa-w&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=2
+    - https://www.youtube.com/watch?v=Ilg3gGewQ5U&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=3
+    - https://www.youtube.com/watch?v=tIeHLnjs5U8&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=4
