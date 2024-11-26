@@ -9,6 +9,8 @@ Lectures:
 - Lecture 2: Simple Liner Regression
 - Lecture 3: Multiple Linear Regression
 - Lecture 4: Neural Networks - Forwards Pass and ReLU
+- Lecture 5: Neural Networks - Backpropagation from scratch + Pytorch and TensorFlow implementation
+- Lecture 6: Neural Networks to multiclass classification task in PyTorch
 
 
 
