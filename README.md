@@ -22,4 +22,7 @@ Extra Learning Resources:
     - https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
     - https://www.youtube.com/watch?v=IHZwWFHWa-w&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=2
     - https://www.youtube.com/watch?v=Ilg3gGewQ5U&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=3
-    - https://www.youtube.com/watch?v=tIeHLnjs5U8&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=4
+    - https://www.youtube.com/watch?v=tIeHLnjs5U8&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=4 
+- The Adam Optimizer: https://www.youtube.com/watch?v=MD2fYip6QsQ)](https://www.youtube.com/watch?v=MD2fYip6QsQ
+- MultiClassification Explained by Andrew Ng: https://www.youtube.com/watch?v=ZvaELFv5IpM
+- Full free course on Pytroch for ML: https://www.youtube.com/watch?v=V_xro1bcAuA&t=2598s
