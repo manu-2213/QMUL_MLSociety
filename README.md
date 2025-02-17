@@ -1,3 +1,11 @@
+# Welcome to the Queen Mary Machine Leaning (QMML) Society
+
+Our QMML Society hosts multiple weekly events!
+
+Our two main branches are the **AI/ML Lectures** and **Kaggle Seasons**.
+
+### **AI/ML Lectures**
+Manu holds weekly lectures on different topics. The lectures start by covering fundamental materials and we move onto more advanced algorithms present in cutting edge reserach and used in industry.
 certificate recognizing their dedication and newly acquired skills.  
 ---
 ## 🏆 AI/ML Competitions  
@@ -23,3 +31,4 @@ This repository is regularly updated with *lecture slides, presentations, and pr
 - *📂 Lectures* – Based on materials covered by Yusuf last year ([GitHub](https://github.com/YM2132)), with some content used to complement this year's lectures ([Lecture Repository](https://github.com/YM2132/QMML)).
 - *📂 Competitions* – Contains the *annual leaderboard*, updated regularly. 
 - *📂 Events* – Includes *important slides and details* from recent and upcoming events. 
+
